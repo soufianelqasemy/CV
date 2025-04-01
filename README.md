@@ -1,7 +1,7 @@
 # Mon CV en Ligne - TP HTML/CSS
 
 ## Objectif
-Création d'un CV numérique simple utilisant les technologies web de base dans le cadre d'un travail pratique scolaire.
+Création d'un CV numérique simple utilisant les technologies web de base .
 
 ## Réalisations
 - **Structure HTML** complète avec les sections principales
